@@ -53,7 +53,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\PlayniteRepo\source\PlayniteSDK\Playnite.SDK.csproj" />
+    <ProjectReference Include="..\..\PlayniteRepo\source\PlayniteSDKNoGui\Playnite.SDKNoGui.csproj" />
   </ItemGroup>
 
 </Project>
